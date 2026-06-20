@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no root@127.0.0.1 -p 2222

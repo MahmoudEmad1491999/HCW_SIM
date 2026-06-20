@@ -1,2 +1,3 @@
 third_party/linux_kernel/
 build/
+*.log
